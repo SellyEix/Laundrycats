@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Laundrycats/static/css/main.584f321a.chunk.css",
+    "main.js": "/Laundrycats/static/js/main.4855b874.chunk.js",
+    "main.js.map": "/Laundrycats/static/js/main.4855b874.chunk.js.map",
+    "runtime~main.js": "/Laundrycats/static/js/runtime~main.03b03b46.js",
+    "runtime~main.js.map": "/Laundrycats/static/js/runtime~main.03b03b46.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Laundrycats/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Laundrycats/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Laundrycats/index.html",
+    "precache-manifest.72e6e3ccfecb7307e3f353929d2687a8.js": "/Laundrycats/precache-manifest.72e6e3ccfecb7307e3f353929d2687a8.js",
+    "service-worker.js": "/Laundrycats/service-worker.js",
+    "static/css/main.584f321a.chunk.css.map": "/Laundrycats/static/css/main.584f321a.chunk.css.map",
+    "static/media/logo.svg": "/Laundrycats/static/media/logo.5d5d9eef.svg"
+  }
+}
